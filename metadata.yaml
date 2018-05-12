@@ -1,0 +1,38 @@
+_repo: The-Return-of-Tharn_33529
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, Howard
+    aliases:
+    - Pollard, John
+    - Carleton, H. B.
+    birthdate: 1907
+    deathdate: 1999
+    gutenberg_agent_id: '35119'
+    url: http://www.gutenberg.org/2009/agents/35119
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Browne
+description: "The Return of Tharn is a fantasy novel by Howard Browne. It was first\
+  \ published in book form in 1956 by The Grandon Company in an edition of 500 copies,\
+  \ of which 350 were bound. The novel was originally serialized in three parts in\
+  \ the magazine Amazing Stories beginning in October, 1948. The book is a sequel\
+  \ to Browne's Warrior of the Dawn (1943).\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2010-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33529'
+  wikidata: Q7760432
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Prehistoric peoples -- Fiction'
+title: The Return of Tharn
+url: http://www.gutenberg.org/ebooks/33529
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Return_of_Tharn
