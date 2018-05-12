@@ -19,6 +19,8 @@ description: "The Return of Tharn is a fantasy novel by Howard Browne. It was fi
   \ of which 350 were bound. The novel was originally serialized in three parts in\
   \ the magazine Amazing Stories beginning in October, 1948. The book is a sequel\
   \ to Browne's Warrior of the Dawn (1943).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33529#The-Return-of-Tharn
 gutenberg_issued: '2010-08-24'
 gutenberg_type: Text
 identifiers:
